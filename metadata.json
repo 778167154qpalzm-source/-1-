@@ -1,0 +1,6 @@
+{
+  "name": "Accounting Database & Chart of Accounts Designer",
+  "description": "Interactive visual database schema designer, ERD diagram, and chart of accounts manager for accounting systems with complete local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
